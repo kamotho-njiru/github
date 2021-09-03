@@ -9,13 +9,17 @@ import { FormsModule } from '@angular/forms';
 import { DateCountPipe } from './date-count.pipe';
 import { StrikethroughDirective } from './strikethrough.directive';
 import { GitsearchComponent } from './gitsearch/gitsearch.component';
+import { NotFoundComponent } from './not-found/not-found.component';
+import { RepoComponent } from './repo/repo.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     DateCountPipe,
     StrikethroughDirective,
-    GitsearchComponent
+    GitsearchComponent,
+    NotFoundComponent,
+    RepoComponent
   ],
   imports: [
     BrowserModule,
