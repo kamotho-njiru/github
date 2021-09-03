@@ -17,3 +17,6 @@ I used CSS, HTML, Angular and Typescript
 ## Further help
 You can always contact me using my Email: kamotho
 
+### License
+The project comes with MIT License 
+
